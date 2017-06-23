@@ -6,6 +6,7 @@
     <i class="fa fa-{{ theme.authoricon }}"></i>
   </span>
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
+  <p>备案: 京ICP备17035882号</p>
 </div>
 
 {% if theme.copyright %}
