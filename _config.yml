@@ -46,7 +46,7 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories
-  about: /about
+  about: /resume.pdf
   archives: /archives
   tags: /tags
   #sitemap: /sitemap.xml
